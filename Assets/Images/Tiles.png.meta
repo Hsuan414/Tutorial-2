@@ -7,6 +7,18 @@ TextureImporter:
     second: Tiles_0
   - first:
       213: -8377130690987618698
+    second: Platform
+  - first:
+      213: -5970293162592913902
+    second: Tiles_0
+  - first:
+      213: -3150346078716111520
+    second: Platform
+  - first:
+      213: -3150346078716111520
+    second: Tiles_1
+  - first:
+      213: -8377130690987618698
     second: Tiles_1
   externalObjects: {}
   serializedVersion: 11
@@ -115,14 +127,14 @@ TextureImporter:
         width: 29
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71fc8a01570a04460800000000000000
-      internalID: 7223950226953391895
+      spriteID: 216b4b62002452da0800000000000000
+      internalID: -5970293162592913902
       vertices: []
       indices: 
       edges: []
@@ -136,7 +148,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
